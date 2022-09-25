@@ -1,0 +1,51 @@
+h1
+{
+  color: rgb(9, 9, 78);
+  font-family:sans-serif;
+  font-size:70px;
+  text-align: center;
+ 
+}
+h1 span
+{
+  color:darkturquoise;
+}
+p
+{
+  text-align: center;
+  font-family: cursive;
+  color: rgb(9, 9, 78);
+}
+
+form input 
+{
+ height: 40px;
+ width:280px;
+ border: 2px solid darkturquoise;
+margin-left: 20px;
+position: relative;
+left: 210px;
+
+
+}
+form textarea
+{
+   resize: none;
+   width: 900px;
+   border: 2px solid darkturquoise;
+   position: absolute;
+  left:calc(50% - 450px)
+}
+button
+{
+  height: 40px;
+  width: 150px;
+ margin-left: 220px;
+ margin-top: 100px;
+  
+  
+  border: 1px solid darkturquoise ;
+  background-color:darkturquoise ;
+  border-radius: 20px;
+  color: aliceblue;
+}
